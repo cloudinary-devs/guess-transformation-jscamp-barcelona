@@ -11,5 +11,5 @@ description: >-
 
 ![](.gitbook/assets/messi-2-4.jpg)
 
-## Submit your details and your guess of the challenge URL into the form provided here: [Submit URL Guess Here](https://docs.google.com/forms/d/e/1FAIpQLScHtLKmc8oyPaGZhTtNyONNOTbGzlfnksj2JjSnLwWF_GGKlw/viewform)!
+## Submit your details and your guess of the challenge URL into the form provided here: [Submit Your Guess Here](https://docs.google.com/forms/d/e/1FAIpQLScHtLKmc8oyPaGZhTtNyONNOTbGzlfnksj2JjSnLwWF_GGKlw/viewform)!
 
